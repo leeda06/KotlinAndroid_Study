@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Kotlin_android_Study</string>
+    <string name="app_name">Kotlin_2312</string>
+    <string name="special">My Special String</string>
 </resources>
